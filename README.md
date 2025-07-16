@@ -1,4 +1,4 @@
-# Movie Magic Budgeting Clone
+# MetaBox-Budget
 
 A comprehensive movie budgeting application inspired by Movie Magic Budgeting, built with React, TypeScript, and Tailwind CSS.
 
